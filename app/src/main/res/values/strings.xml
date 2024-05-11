@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">PinjamBarang</string>
+    <string name="list_kosong">Belum ada data</string>
+    <string name="x_diklik">%1$s diklik!</string>
+    <string name="tambah_peminjaman">Tambah Peminjaman</string>
+    <string name="tambah_error">Belum bisa tambah data peminjaman buku</string>
+    <string name="nama">Nama Peminjam</string>
+    <string name="nim">NIM</string>
+    <string name="nohp">No Hp</string>
+    <string name="judul_barang">Judul Barang</string>
+    <string name="status">Status</string>
+    <string name="tanggal_pinjam">Tanggal Pinjam (dd-mm-yyyy)</string>
+    <string name="tanggal_kembali">Tanggal Kembali (dd-mm-yyyy)</string>
+    <string name="empty_box_image">Empty box image</string>
+    <string name="status_sedangdipinjam">Sedang Dipinjam</string>
+    <string name="status_sudahdikembalikan">Sudah Dikembalikan</string>
+    <string name="kembali">Kembali</string>
+    <string name="simpan">Simpan</string>
+    <string name="edit_peminjaman">Ubah Peminjaman</string>
+    <string name="invalid">Isian tidak boleh kosong</string>
+    <string name="lainnya">Opsi lainnya</string>
+    <string name="hapus">Hapus peminjaman</string>
+    <string name="pesan_hapus">Hapus peminjaman ini?</string>
+    <string name="tombol_hapus">Hapus</string>
+    <string name="tombol_batal">Batal</string>
+    <string name="list">Tampilan list</string>
+    <string name="grid">Tampilan grid</string>
+</resources>
