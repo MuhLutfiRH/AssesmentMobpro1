@@ -25,4 +25,22 @@
     <string name="tombol_batal">Batal</string>
     <string name="list">Tampilan list</string>
     <string name="grid">Tampilan grid</string>
+    <string name="batal">Batal</string>
+    <string name="barang">Barang</string>
+    <string name="konfirmasi_hapus">Yakin ingin hapus?</string>
+    <string name="about">Tentang Aplikasi</string>
+    <string name="copyright">Aplikasi ini dibuat untuk melakukan pemilihan atau voting secara online. Aplikasi ini dibuat oleh Davin Wahyu Wardana dengan NIM 6706223003 dalam pengerjaan Assesment 3 pada mata kuliah Mobpro1 di program studi D3 Rekayasa Perangkat Lunak Aplikasi pada Universitas Telkom.</string>
+    <string name="tambah_voting">Tambah Voting</string>
+    <string name="profil">Profil</string>
+    <string name="judul">Nama</string>
+    <string name="deskripsi">Tentukan pilihanmu!</string>
+    <string name="gambar">Gambar</string>
+    <string name="memilih">Memilih:</string>
+    <string name="error">Gagal memuat data.. Koneksi error.</string>
+    <string name="hasil">Hasil Voting</string>
+    <string name="tutup">Tutup</string>
+    <string name="logout">Logout</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="try_again">Coba lagi</string>
+    <string name="template_bagikan">Atas nama %1$s sudah memilih %2$s di aplikasi %3$s, ayo jangan lupa masukkan suaramu, dan jangan golput!</string>
 </resources>
